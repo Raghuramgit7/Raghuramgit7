@@ -37,7 +37,7 @@ Search, Prompt Engineering, LLM Evaluation
 
 ---
 
-💼 Experience
+💼 Experience**
 Capital One
 AI Software Engineer
 Aug 2024 – Present
