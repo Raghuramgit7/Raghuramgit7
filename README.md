@@ -37,7 +37,7 @@ Search, Prompt Engineering, LLM Evaluation
 
 ---
 
-💼 Experience**
+Experience
 Capital One
 AI Software Engineer
 Aug 2024 – Present
@@ -65,6 +65,8 @@ Jan 2020 – Jun 2021
 Built NLP-driven recommendation systems using BERT, TensorFlow, Elasticsearch, Flask, Redis, and PostgreSQL to improve support response relevance and speed.
 
 Delivered production AI services handling high request volumes, with measurable gains in agent efficiency and customer satisfaction.
+
+
 ---
 
 ## 📂 Highlight Projects (AI + Data)
