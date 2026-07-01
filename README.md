@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **Software Engineer** passionate about building **AI-powered systems**, **scalable data pipelines**, and **cloud-native applications**. Currently pursuing my Master’s in Computer Science at PSU, I enjoy solving problems at the intersection of **AI, Software Engineering, and Data Engineering**.  
+I’m a **Software Engineer** passionate about building **AI-powered systems**, **scalable data pipelines**, and **cloud-native applications**. Completed my Master’s in Computer Science at PSU, I enjoy solving problems at the intersection of **AI, Software Engineering, and Data Engineering**.  
 
 - 🤖 **AI/LLMs**: LangChain (Agents, Tool Calling, RAG), OpenAI APIs (Function Calling), ChromaDB (Vector DB), Semantic
 Search, Prompt Engineering, LLM Evaluation
@@ -33,7 +33,7 @@ Search, Prompt Engineering, LLM Evaluation
 |-----------------------------|-------------------------|----------------------------|--------------------------|-----------------------------|
 | 🤖 LangChain, FAISS, OpenAI | ☕ Spring Boot, Flask    | ☁️ GCP, Azure Databricks    | 🐘 PostgreSQL, Redshift  | 🐙 Docker, GitHub Actions   |
 | 📊 PySpark, Pandas, TensorFlow | ⚛️ React, Next.js     | 🛠️ Kubernetes, Terraform   | 🗄️ MySQL, MongoDB        | 🔧 CI/CD, Agile, JUnit/PyTest |
-| 🧠 RAG Pipelines, LLM Apps  | FastAPI, Node.js        | Pub/Sub, Cloud Run, Airflow |                          | 📊 Power BI, Streamlit      |
+| 🧠 RAG Pipelines, LLM Apps, MCP  | FastAPI, Node.js        | Pub/Sub, Cloud Run, Airflow |                          | 📊 Power BI, Streamlit      |
 
 ---
 
