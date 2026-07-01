@@ -39,26 +39,32 @@ Search, Prompt Engineering, LLM Evaluation
 
 💼 Experience
 Capital One
-AI Software Engineer | Aug 2024 – Present
+AI Software Engineer
+Aug 2024 – Present
 
 Architected a multi-agent financial assistance platform using LangGraph, FastAPI, Kafka, PostgreSQL, and Kubernetes to support scalable AI workflows for customer-facing financial services.
 
-Built secure MCP integrations and reusable backend components that connected AI agents with enterprise systems, while managing Git-based repositories with branching, pull requests, and documentation best practices.
+Built secure MCP integrations and reusable backend components that connected AI agents with enterprise systems.
+
+Managed Git-based repositories with branching, pull requests, and documentation best practices to support stable and maintainable AI workflows.
 
 Accenture
-Software Developer – AI/ML | Jul 2021 – Aug 2023
+Software Developer – AI/ML
+Jul 2021 – Aug 2023
 
 Developed large-scale predictive maintenance and anomaly detection pipelines using Python, Spark, Kafka, scikit-learn, XGBoost, and TensorFlow on IoT telemetry data.
 
-Deployed production ML services with Docker and Kubernetes, and created monitoring dashboards that improved maintenance planning and operational visibility.
+Deployed production ML services with Docker and Kubernetes.
+
+Created monitoring dashboards that improved maintenance planning and operational visibility.
 
 Freshworks
-Associate AI Engineer | Jan 2020 – Jun 2021
+Associate AI Engineer
+Jan 2020 – Jun 2021
 
 Built NLP-driven recommendation systems using BERT, TensorFlow, Elasticsearch, Flask, Redis, and PostgreSQL to improve support response relevance and speed.
 
 Delivered production AI services handling high request volumes, with measurable gains in agent efficiency and customer satisfaction.
-
 ---
 
 ## 📂 Highlight Projects (AI + Data)
