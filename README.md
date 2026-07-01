@@ -37,19 +37,27 @@ Search, Prompt Engineering, LLM Evaluation
 
 ---
 
-## 💼 Experience
+💼 Experience
+Capital One
+AI Software Engineer | Aug 2024 – Present
 
-### Pentachrome Technologies  
-**Software Engineer**   *Sep 2022 – Jun 2023*  
-- Designed **real-time ETL pipelines** on Azure Databricks (PySpark + Kafka) streaming millions of events, boosting analytics reliability by **60%**.  
-- Optimized Spark SQL with broadcast joins & partitioning, cutting execution time by **58%**.  
-- Automated monitoring with Slack alerts, reducing incident response time to **15 mins**.  
+Architected a multi-agent financial assistance platform using LangGraph, FastAPI, Kafka, PostgreSQL, and Kubernetes to support scalable AI workflows for customer-facing financial services.
 
-### NTT DATA Services  
-**Software Engineer**   *Nov 2020 – Aug 2022*  
-- Built **Spring Boot REST APIs** powering reporting workflows; cut response times by **30%**.  
-- Optimized MySQL queries and JPA entities, reducing dashboard latency to **<300ms**.  
-- Championed code quality with JUnit & GitHub branch protections, reducing regressions **30%**.  
+Built secure MCP integrations and reusable backend components that connected AI agents with enterprise systems, while managing Git-based repositories with branching, pull requests, and documentation best practices.
+
+Accenture
+Software Developer – AI/ML | Jul 2021 – Aug 2023
+
+Developed large-scale predictive maintenance and anomaly detection pipelines using Python, Spark, Kafka, scikit-learn, XGBoost, and TensorFlow on IoT telemetry data.
+
+Deployed production ML services with Docker and Kubernetes, and created monitoring dashboards that improved maintenance planning and operational visibility.
+
+Freshworks
+Associate AI Engineer | Jan 2020 – Jun 2021
+
+Built NLP-driven recommendation systems using BERT, TensorFlow, Elasticsearch, Flask, Redis, and PostgreSQL to improve support response relevance and speed.
+
+Delivered production AI services handling high request volumes, with measurable gains in agent efficiency and customer satisfaction.
 
 ---
 
